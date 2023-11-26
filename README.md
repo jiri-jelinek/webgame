@@ -3,7 +3,7 @@
 
 https://jiri-jelinek.github.io/webgame
 
-webgame je jednoduchy web s odkazy
+V repozitari je jednoduchy web bez odkazu na ostatni stranky.
 
 ## Poznamka
 Tento repozitar je zamerne ponechan skoro prazdny (web má jen nekolik kb), aby slouzil experimentum.
